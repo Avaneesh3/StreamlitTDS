@@ -1,9 +1,1 @@
-# StreamlitTDS
-echo "# streamlit-to-heroku-tutorial" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M master
-git remote add origin 
-https://github.com/Avaneesh3/StreamlitTDS.git
-git push -u origin master
+This is a simple web application for multiplication of two numbers made using streamlit and it is deployed on heroku in the following link https://w821f1001990.herokuapp.com/
